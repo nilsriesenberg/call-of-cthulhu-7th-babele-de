@@ -1,34 +1,34 @@
 {
-	"label": "Items Examples",
+	"label": "Beispielgegenstände",
 	"entries": [
 		{
 			"id": "1920's Setup Example",
-			"name": "1920's Setup Example",
-			"description": "<p>Default setup for 1920's character.</p>\n<p>&nbsp;</p>"
+			"name": "1920er Beispielsetup",
+			"description": "<p>Standard-Setup für Charaktere der 1920er.</p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Archetype Example",
-			"name": "Archetype Example",
+			"name": "Beispielarchetyp",
 			"description": null
 		},
 		{
 			"id": "Death ray (prototype)",
-			"name": "Death ray (prototype)",
+			"name": "Todesstrahl (Prototyp)",
 			"description": ""
 		},
 		{
 			"id": "Experimental weapon",
-			"name": "Experimental weapon",
-			"description": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>"
+			"name": "Experimentelle Waffe",
+			"description": "<p>Beschreibung der Waffe</p>\n<p>die Auswahl 'Schrotflinte' aktiviert je 3 abgestufte Reichweiten- und Schadensfelder</p>\n<p>'Feuerstoß'/'Vollautomatik' erlaubt es, 2 verschiedene Fertigkeiten für die Waffe auszuwählen</p>\n<p>die Option 'Spezial' aktiviert ein Textfeld für Eingaben</p>\n<p>Wenn die Symbole im Reiter 'Kampf' rot hinterlegt sind, bedeuet dies, dass noch keine Fertigkeit für die Waffe ausgewählt wurde</p>\n<p>Bearbeite die Waffe und wähle die korrekte Fertigkeit.</p>"
 		},
 		{
 			"id": "Occupation Example",
-			"name": "Occupation Example",
+			"name": "Beispielberuf",
 			"description": null
 		},
 		{
 			"id": "Punch",
-			"name": "Punch",
+			"name": "Schlag",
 			"description": ""
 		}
 	]
