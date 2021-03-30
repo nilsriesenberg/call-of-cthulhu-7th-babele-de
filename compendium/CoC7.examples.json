@@ -1609,7 +1609,7 @@
 					"name": "Beliebig",
 					"type": "skill",
 					"data": {
-						"specialization": "Survival",
+						"specialization": "Überlebenskunst",
 						"description": {
 							"value": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
 							"opposingDifficulty": "",
@@ -1905,7 +1905,7 @@
 					"name": "Beliebig",
 					"type": "skill",
 					"data": {
-						"specialization": "Art/Craft",
+						"specialization": "Handwerk/Kunst",
 						"description": {
 							"value": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
 							"opposingDifficulty": "",
@@ -1952,7 +1952,7 @@
 					"name": "Beliebig",
 					"type": "skill",
 					"data": {
-						"specialization": "Language",
+						"specialization": "Fremdsprache",
 						"description": {
 							"value": "",
 							"opposingDifficulty": "",
@@ -1989,7 +1989,7 @@
 					"name": "Beliebig",
 					"type": "skill",
 					"data": {
-						"specialization": "Science",
+						"specialization": "Naturwissenschaft",
 						"description": {
 							"value": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk</span></p>",
 							"opposingDifficulty": "",
@@ -2026,7 +2026,7 @@
 					"name": "Beliebig",
 					"type": "skill",
 					"data": {
-						"specialization": "Track",
+						"specialization": "Spurensuche",
 						"description": {
 							"value": "",
 							"opposingDifficulty": "",
