@@ -44,7 +44,7 @@
 
 ## Versionen
 
-version 0.4.9 :
+version 0.54.4:
 
-* Updated to HavlockV/CoC7-FoundryVTT 0.4.9 (version 0.4.8 was skipped)
+* took over the module, updated missing strings and corrected some errors
 
