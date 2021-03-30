@@ -1,4 +1,4 @@
-# Cthulhu 7 (inoffiziell) für FoundryVTT
+# Call of Cthulhu 7 (inoffiziell) für FoundryVTT auf Deutsch
 
 ## Description - Beschreibung  
 
@@ -9,13 +9,13 @@
 ## Installation - Installation  
 
 * Install/Update _Call of Cthulhu 7th edition_ system, by HavlockV, from Foundry's system manager.
-[Module Url](https://foundryvtt.com/packages/CoC7/)
+[Module-URL](https://foundryvtt.com/packages/CoC7/)
 * Install/Update _Babele_ module from Foundry's module manager.
-[Module Url](https://foundryvtt.com/packages/babele/)
-* (Optional) Install/Update _Translation: Deutsch [Core]_ module from Foundry's module manager:
-[Module Url](https://foundryvtt.com/packages/FoundryVTT-ES/)
-* Install/Update _Translation: Deutsch (Call of Cthulhu 7th)_ module from Foundry's module manager:
-[Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-de/)
+[Module-URL](https://foundryvtt.com/packages/babele/)
+* (Optional) Install/Update _German [Core]_ module from Foundry's module manager:
+[Module-URL](https://foundryvtt.com/packages/lang-de)
+* Install/Update _Translation: Deutsch (Call of Cthulhu 7)_ module from Foundry's module manager:
+[Module-URL](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-de/)
 * Inside the Game World, at _Configuration/Manage Modules_ activate Babele and both translations.
 * At _Configuration/Setup_ change language to Deutsch.
 ----
@@ -23,9 +23,9 @@
 [Module Url](https://foundryvtt.com/packages/CoC7/)
 * Installiere/aktualisiere das Modul _Babele_ über die Modulverwaltung von Foundry.
 [Module Url](https://foundryvtt.com/packages/babele/)
-* (Optional) Installiere/aktualisiere das Modul _Translation: Deutsch [Core]_ über die Modulverwaltung von Foundry.
-[Module Url](https://foundryvtt.com/packages/FoundryVTT-ES/)
-* Installiere/aktualisiere das Modul _Translation: Deutsch (Call of Cthulhu 7th)_ über die Modulverwaltung von Foundry.
+* (Optional) Installiere/aktualisiere das Modul _German [Core]_ über die Modulverwaltung von Foundry.
+[Module Url](https://foundryvtt.com/packages/lang-de)
+* Installiere/aktualisiere das Modul _Translation: Deutsch (Call of Cthulhu 7)_ über die Modulverwaltung von Foundry.
 [Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-de/)
 * Aktiviere in der Spielwelt im Menü _Module verwalten_ Babele und beide Übersetzungen.
 * Ändere unter _Einstellungen anpassen_ die Sprache auf Deutsch.
