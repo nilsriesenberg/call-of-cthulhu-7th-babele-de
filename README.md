@@ -20,13 +20,13 @@
 * At _Configuration/Setup_ change language to Deutsch.
 ----
 * Installiere/aktualisiere das Spielsystem _Call of Cthulhu 7th edition_ von HavlockV über die Spielsystemverwaltung von Foundry.
-[Module Url](https://foundryvtt.com/packages/CoC7/)
+[Modul-URL](https://foundryvtt.com/packages/CoC7/)
 * Installiere/aktualisiere das Modul _Babele_ über die Modulverwaltung von Foundry.
-[Module Url](https://foundryvtt.com/packages/babele/)
+[Modul-URL](https://foundryvtt.com/packages/babele/)
 * (Optional) Installiere/aktualisiere das Modul _German [Core]_ über die Modulverwaltung von Foundry.
-[Module Url](https://foundryvtt.com/packages/lang-de)
+[Modul-URL](https://foundryvtt.com/packages/lang-de)
 * Installiere/aktualisiere das Modul _Translation: Deutsch (Call of Cthulhu 7)_ über die Modulverwaltung von Foundry.
-[Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-de/)
+[Modul-URL](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-de/)
 * Aktiviere in der Spielwelt im Menü _Module verwalten_ Babele und beide Übersetzungen.
 * Ändere unter _Einstellungen anpassen_ die Sprache auf Deutsch.
 
