@@ -538,7 +538,7 @@
 "CoC7.InfoAllSkillsAlreadySelected": "Alle Fertigkeiten sind bereits ausgewählt.",
 
 "CoC7.MessageWaitForKeeperToClick": "Dein Spielleiter bittet um eine Probe.<br>Warte bevor du klickst!<br>",
-"CoC7.MessageCheckRequested": "Dein Spielleiter bittet um eine Probe."
+"CoC7.MessageCheckRequested": "Dein Spielleiter bittet um eine Probe.",
 "SETTINGS.DefaultDifficulty": "Standard-Probenschwierigkeit",
 "SETTINGS.DefaultDifficultyHint": "Du kannst die Standard-Probenschwierigkeit auswählen. Unbekannt wird eine Probe würfeln, ohne das Spieler die Schwierigkeitsstufe kennen.",
 "SETTINGS.CheckDifficultyRegular": "Standardschwierigkeit",
@@ -564,7 +564,7 @@
 "SETTINGS.RestrictGridSpaces": "Messung auf Rasterfelder beschränken",
 "SETTINGS.RestrictGridSpacesHint": "Für den Fernkampf werden die Abstände, wenn ausgewählt, in Rasterfeldern gemessen. Wenn nicht, wird der 'echte' (euklidische) Abstand verwendet.",
 "SETTINGS.StatusPlayerEditable": "Spieler kann den Status verändern",
-"SETTINGS.StatusPlayerEditableHint": "Lässt die Spieler ihren Status verändern (am Boden, bewusstlos, im sterben, tot) sowie den täglichen STA-Verlust zurücksetzen."
+"SETTINGS.StatusPlayerEditableHint": "Lässt die Spieler ihren Status verändern (am Boden, bewusstlos, im sterben, tot) sowie den täglichen STA-Verlust zurücksetzen.",
 "SETTINGS.SyncDice3D": "[DsN] Würfel synchronisieren",
 "SETTINGS.SyncDice3DHint": "Wenn du DsN benutzt, werden die Würfel zwischen den Clients synchronisiert",
 "SETTINGS.UnitDieColorset": "[DsN] Einserwürfel-Farbset",
