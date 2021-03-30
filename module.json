@@ -1,8 +1,8 @@
 {
   "name": "call-of-cthulhu-7th-babele-de",
-  "title": "Call of Cthulhu 7 Babele Deutsch",
-  "description": "Deutsche Übersetzung von Cthulhu 7 (HavlockV/CoC7-FoundryVTT) mit Babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) german translation using Babele",
-  "version": "0.54.31",
+  "title": "Translation: Deutsch (Call of Cthulhu 7)",
+  "description": "Deutsche Übersetzung von Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) mit Babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) german translation using Babele",
+  "version": "0.54.4",
   "minimumCoreVersion" : "0.7.0",
   "compatibleCoreVersion":"0.7.9",
   "author": "Xithrim",
@@ -31,7 +31,7 @@
   ],
   "system": "CoC7",
   "systemVersion": "0.5.4",
-  "url": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-de",
-  "manifest": "https://raw.githubusercontent.com/lozalojo/call-of-cthulhu-7th-babele-de/master/module.json",
-  "download": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-de/archive/master.zip"
+  "url": "https://github.com/xithrim/call-of-cthulhu-7th-babele-de",
+  "manifest": "https://raw.githubusercontent.com/xithrim/call-of-cthulhu-7th-babele-de/master/module.json",
+  "download": "https://github.com/xithrim/call-of-cthulhu-7th-babele-de/archive/master.zip"
 }
