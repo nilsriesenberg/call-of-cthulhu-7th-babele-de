@@ -2,7 +2,7 @@
   "name": "call-of-cthulhu-7th-babele-de",
   "title": "Cthulhu 7 Babele Deutsch",
   "description": "Deutsche Übersetzung von Cthulhu 7 (HavlockV/CoC7-FoundryVTT) mit Babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) german translation using Babele",
-  "version": "0.54.1",
+  "version": "0.54.2",
   "minimumCoreVersion" : "0.7.0",
   "compatibleCoreVersion":"0.7.9",
   "author": "Xithrim",
