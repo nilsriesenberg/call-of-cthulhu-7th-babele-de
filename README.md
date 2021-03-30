@@ -1,12 +1,12 @@
-# La Llamada de Cthulhu 7a para FoundryVTT
+# Cthulhu 7 (inoffiziell) für FoundryVTT
 
-## Description - Descripción  
+## Description - Beschreibung  
 
-* Deutsch translation of HavlockV's Call of Cthulhu 7th module for Foundry VTT.
+* German translation of HavlockV's Call of Cthulhu 7th module for Foundry VTT.
 ----
-* Traducción al español del módulo de La Llamada de Cthulhu 7a creado por HavlockV para Foundry VTT.
+* Deutsche Übersetzung des 'Call of Cthulhu'-Moduls von HavlockV für Foundry VTT.
 
-## Installation - Instalación  
+## Installation - Installation  
 
 * Install/Update _Call of Cthulhu 7th edition_ system, by HavlockV, from Foundry's system manager.
 [Module Url](https://foundryvtt.com/packages/CoC7/)
@@ -16,33 +16,33 @@
 [Module Url](https://foundryvtt.com/packages/FoundryVTT-ES/)
 * Install/Update _Translation: Deutsch (Call of Cthulhu 7th)_ module from Foundry's module manager:
 [Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-de/)
-* Inside the Game World, at _Configuration/Manage Modules_ activate Babele y both translations.
+* Inside the Game World, at _Configuration/Manage Modules_ activate Babele and both translations.
 * At _Configuration/Setup_ change language to Deutsch.
 ----
-* Instale/Actualice el sistema _Call of Cthulhu 7th edition_, de HavlockV, desde el gestor de sistemas de Foundry.
+* Installiere/aktualisiere das Spielsystem _Call of Cthulhu 7th edition_ von HavlockV über die Spielsystemverwaltung von Foundry.
 [Module Url](https://foundryvtt.com/packages/CoC7/)
-* Instale/Actualice el módulo _Babele_ desde el gestor de módulos de Foundry.
+* Installiere/aktualisiere das Modul _Babele_ über die Modulverwaltung von Foundry.
 [Module Url](https://foundryvtt.com/packages/babele/)
-* (Opcional) Instale/Actualice el módulo _Translation: Deutsch [Core]_ desde el gestor de módulos de Foundry:
+* (Optional) Installiere/aktualisiere das Modul _Translation: Deutsch [Core]_ über die Modulverwaltung von Foundry.
 [Module Url](https://foundryvtt.com/packages/FoundryVTT-ES/)
-* Instale/Actualice el módulo _Translation: Deutsch (Call of Cthulhu 7th)_ desde el gestor de módulos de Foundry:
+* Installiere/aktualisiere das Modul _Translation: Deutsch (Call of Cthulhu 7th)_ über die Modulverwaltung von Foundry.
 [Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-de/)
-* Entre en el Mundo de Juego, _Configuración/Administrar Módulos_ active Babele y las dos traducciones.
-* En _Configuración/Configurar Ajustes_ cambie el idioma a Deutsch.
+* Aktiviere in der Spielwelt im Menü _Module verwalten_ Babele und beide Übersetzungen.
+* Ändere unter _Einstellungen anpassen_ die Sprache auf Deutsch.
 
-## Notificación de errores - Feedback  
+## Feedback - Fehlerhinweise
 
-* Please any suggestion or feedback is greatly appreciated. Use the issue system.
+* Please, any suggestion or feedback is greatly appreciated. Use the issue system.
 ----
-* Cualquier sugerencia o comentario es bienvenido. Usad el sistema de notificación de errores de github.
+* Kritik, Hinweise und Feedback sind sehr willkommen. Benutze dafür bitte das 'Issue-System' von Github.
 
-## Créditos  
+## Credits  
 
-* La traducción es obra de xxxxxxxxxxxxxxxxxx.
-* Se ha usado como plantilla la traducción de *José E. Lozano* (Viriato139ac) Translation: Spanish (Call of Cthulhu 7th) - https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-es/.
-* *Babele* es un módulo de *Simone Ricciardi*.
+* Übersetzung von Xithrim.
+* Als Vorlage diente die Übersetzung von *José E. Lozano* (Viriato139ac) Translation: Spanish (Call of Cthulhu 7th) - https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-es/.
+* *Babele* ist ein Modul von *Simone Ricciardi*.
 
-## Versiones
+## Versionen
 
 version 0.4.9 :
 
