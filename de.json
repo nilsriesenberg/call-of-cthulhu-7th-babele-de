@@ -94,7 +94,7 @@
 
 "CoC7.Dice": "Würfel",
 "CoC7.DiceModifierBonus": "Bonus",
-"CoC7.DiceModifierPenalty": "Strafe",
+"CoC7.DiceModifierPenalty": "Straf",
 "CoC7.BonusDice": "Bonuswürfel",
 "CoC7.UnitsDie" : "Einserwürfel",
 "CoC7.TensDie": "Zehnerwürfel",
@@ -539,6 +539,18 @@
 
 "CoC7.MessageWaitForKeeperToClick": "Dein Spielleiter bittet um eine Probe.<br>Warte bevor du klickst!<br>",
 "CoC7.MessageCheckRequested": "Dein Spielleiter bittet um eine Probe.",
+
+"CoC7.ActorImporter": "Akteuer-Importer",
+"CoC7.ActorImporterSummary": "Importiert einen NSC oder eine Kreatur ausgehend von einer Beschreibung und Werten. Füge einfach den entsprechenden Statblock/Text ein.",
+"CoC7.PasteTheDataBelow": "Füge hier den Text ein:",
+"CoC7.SelectActorType": "Akteuer-Typ wählen",
+"CoC7.NonPlayingCharacter": "Nichtspielercharakter (NSC)",
+"CoC7.Creature": "Kreatur",
+"CoC7.ConvertFrom6Edition": "Aus Edition 6 konvertieren",
+"CoC7.Convert": "Konvertieren",
+"CoC7.NoConvert": "Nicht konvertieren",
+"CoC7.Guess": "Schätzung",
+
 "SETTINGS.DefaultDifficulty": "Standard-Probenschwierigkeit",
 "SETTINGS.DefaultDifficultyHint": "Du kannst die Standard-Probenschwierigkeit auswählen. Unbekannt wird eine Probe würfeln, ohne das Spieler die Schwierigkeitsstufe kennen.",
 "SETTINGS.CheckDifficultyRegular": "Standardschwierigkeit",
