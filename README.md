@@ -44,6 +44,10 @@
 
 ## Versionen
 
+version 0.55.0:
+
+* update to newest game system version; fixed some minor translation issues; removed english localisation file
+
 version 0.54.4:
 
 * took over the module, updated missing strings and corrected some errors
