@@ -4,422 +4,432 @@
 		{
 			"id": "Anthropology",
 			"name": "Anthropologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 50/51</p>"
 		},
 		{
 			"id": "Archaeology",
 			"name": "Archäologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 51</p>"
 		},		
 		{
 			"id": "Artillery",
 			"name": "Artillerie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 51</p>"
 		},
 		{
 			"id": "Astronomy",
 			"name": "Astronomie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 64</p>"
 		},
 		{
 			"id": "Dodge",
 			"name": "Ausweichen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 51</p>"
 		},
 		{
 			"id": "Drive Auto",
 			"name": "Autofahren",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 51/52</p>"
 		},
 		{
 			"id": "Axe",
 			"name": "Axt",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 62</p>"
 		},
 		{
 			"id": "Library Use",
 			"name": "Bibliotheksnutzung",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 52</p>"
 		},
 		{
 			"id": "Fine Art",
 			"name": "Bildende Kunst",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 58</p>"
 		},		
 		{
 			"id": "Biology",
 			"name": "Biologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 64</p>"
 		},
 		{
 			"id": "Botany",
 			"name": "Botanik",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 64</p>"
 		},
 		{
 			"id": "Bow",
 			"name": "Bogen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 56</p>"
 		},
 		{
 			"id": "Accounting",
 			"name": "Buchführung",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 52</p>"
 		},
 		{
 			"id": "Acting",
 			"name": "Bühnenkunst",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 58</p>"
 		},
 		{
 			"id": "Charm",
 			"name": "Charme",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 52</p>"
 		},
 		{
 			"id": "Chemistry",
 			"name": "Chemie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 64</p>"
 		},
 		{
 			"id": "Computer Use",
 			"name": "Computernutzung",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 53</p>"
 		},
 		{
 			"id": "Cthulhu Mythos",
 			"name": "Cthulhu-Mythos",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 54</p>"
 		},
 		{
 			"id": "Intimidate",
 			"name": "Einschüchtern",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 54/55</p>"
 		},		
 		{
 			"id": "Electrical Repair",
 			"name": "Elektrische Reparaturen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 55</p>"
 		},
 		{
 			"id": "Electronics",
 			"name": "Elektronik",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 55</p>"
 		},
 		{
 			"id": "First Aid",
 			"name": "Erste Hilfe",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 55/56</p>"
 		},
 		{
 			"id": "Forgery",
 			"name": "Fälscherei",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 58</p>"
 		},
 		{
 			"id": "Handgun",
 			"name": "Faustfeuerwaffe",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 56</p>"
 		},
 		{
 			"id": "Credit Rating",
 			"name": "Finanzkraft",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 56</p>"
 		},
 		{
 			"id": "Flamethrower",
 			"name": "Flammenwerfer",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 56</p>"
 		},
 		{
 			"id": "Flail",
 			"name": "Flegelwaffe",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 62</p>"
 		},
 		{
 			"id": "Forensics",
-			"name": "Forensik",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"name": "Kriminaltechnik/Forensik",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 65</p>"
 		},
 		{
 			"id": "Photography",
 			"name": "Fotografie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 59</p>"
 		},
 		{
 			"id": "Language (Any)",
 			"name": "Fremdsprache (Beliebig)",
-			"description": ""
+			"description": "Siehe Cthulhu 7 Grundregelwerk; Seite 57"
 		},
 		{
 			"id": "Language (Other)",
 			"name": "Fremdsprache (Andere)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk</span></p>"
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk; Seite 57</span></p>"
 		},
 		{
 			"id": "Garrote",
 			"name": "Garrote",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 62</p>"
 		},
 		{
 			"id": "Geology",
 			"name": "Geologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 64</p>"
 		},
 		{
 			"id": "Diving",
 			"name": "Gerätetauchen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 57</p>"
 		},
 		{
 			"id": "History",
 			"name": "Geschichte",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 58</p>"
 		},
 		{
 			"id": "Rifle/Shotgun",
 			"name": "Gewehr/Flinte",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 56</p>"
 		},
 		{
 			"id": "Brawl",
 			"name": "Handgemenge",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 62</p>"
 		},
 		{
 			"id": "Art/Craft (Any)",
 			"name": "Handwerk/Kunst (Beliebig)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 58/59</p>"
 		},
 		{
 			"id": "Listen",
 			"name": "Horchen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 59</p>"
 		},
 		{
 			"id": "Hypnosis",
 			"name": "Hypnose",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 59/60</p>"
+		},
+		{
+			"id": "",
+			"name": "Ingeneurswissenschaft",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 65</p>"
 		},
 		{
 			"id": "Sleight of Hand",
 			"name": "Kaschieren",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 60</p>"
 		},
 		{
 			"id": "Chainsaw",
 			"name": "Kettensäge",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 62</p>"
 		},
 		{
 			"id": "Climb",
 			"name": "Klettern",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 60</p>"
 		},
 		{
 			"id": "Cryptography",
 			"name": "Kryptographie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 65</p>"
 		},
 		{
 			"id": "Read Lips",
 			"name": "Lippenlesen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 60/61</p>"
 		},		
 		{
 			"id": "Machine Gun",
 			"name": "Maschinengewehr",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 56</p>"
 		},
 		{
 			"id": "Submachine Gun",
 			"name": "Maschinenpistole",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 56</p>"
 		},
 		{
 			"id": "Mathematics",
 			"name": "Mathematik",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 65</p>"
 		},
 		{
 			"id": "Mechanical Repair",
 			"name": "Mechanische Reparaturen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 61</p>"
 		},
 		{
 			"id": "Medicine",
-			"name": "Medizine",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"name": "Medizin",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 61</p>"
 		},
 		{
 			"id": "Meteorology",
 			"name": "Meteorologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 65</p>"
 		},
 		{
 			"id": "Language (Own)",
 			"name": "Muttersprache",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk</span></p>"
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk; Seite 62</span></p>"
 		},
 		{
 			"id": "Natural World",
 			"name": "Naturkunde",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 62/63</p>"
 		},		
 		{
 			"id": "Science (Any)",
 			"name": "Naturwissenschaft (Beliebig)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk</span></p>"
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk; Seite 64/65</span></p>"
 		},		
 		{
 			"id": "Occult",
 			"name": "Okkultismus",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 65/66</p>"
 		},		
 		{
 			"id": "Navigate",
 			"name": "Orientierung",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 66</p>"
 		},		
 		{
 			"id": "Whip",
 			"name": "Peitsche",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 62</p>"
 		},
 		{
 			"id": "Pharmacy",
 			"name": "Pharmazie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 65</p>"
 		},
 		{
 			"id": "Physics",
 			"name": "Physik",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 65</p>"
 		},
 		{
 			"id": "Psychoanalysis",
 			"name": "Psychoanalyse",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 66</p>"
 		},
 		{
 			"id": "Psychology",
 			"name": "Psychologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 67</p>"
 		},
 		{
 			"id": "Law",
 			"name": "Rechtswesen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 67/66</p>"
 		},
 		{
 			"id": "Ride",
 			"name": "Reiten",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 68</p>"
 		},
 		{
 			"id": "Locksmith",
 			"name": "Schließtechnik",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 68</p>"
 		},
 		{
 			"id": "Heavy Weapons",
 			"name": "Schwere Waffen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 56</p>"
 		},
 		{
 			"id": "Operate Heavy Machinery",
 			"name": "Schweres Gerät",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 68</p>"
 		},
 		{
 			"id": "Sword",
 			"name": "Schwert",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 62</p>"
 		},
 		{
 			"id": "Swim",
 			"name": "Schwimmen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 68/69</p>"
 		},
 		{
 			"id": "Spear",
 			"name": "Speer",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 62</p>"
 		},
 		{
 			"id": "Demolitions",
 			"name": "Sprengen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 69</p>"
 		},
 		{
 			"id": "Jump",
 			"name": "Springen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 69</p>"
 		},
 		{
 			"id": "Track",
 			"name": "Spurensuche",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 69/70</p>"
 		},
 		{
 			"id": "Track (Any)",
 			"name": "Spurensuche (Beliebig)",
-			"description": ""
+			"description": "Siehe Cthulhu 7 Grundregelwerk; Seite 69/70"
 		},
 		{
 			"id": "Pilot (Any)",
 			"name": "Steuern (Beliebig)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 70</p>"
 		},
 		{
 			"id": "Animal Handling",
 			"name": "Tierdressur",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 70/71</p>"
 		},
 		{
 			"id": "Survival (Any)",
 			"name": "Überlebenskunst (Beliebig)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 71</p>"
+		},
+		{
+			"id": "",
+			"name": "Überlieferungen (Beliebig)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 71</p>"
 		},
 		{
 			"id": "Fast Talk",
 			"name": "Überreden",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 71/72</p>"
 		},
 		{
 			"id": "Persuade",
 			"name": "Überzeugen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 72</p>"
 		},
 		{
 			"id": "Stealth",
 			"name": "Verborgen bleiben",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 72/73</p>"
 		},
 		{
 			"id": "Spot Hidden",
 			"name": "Verborgenes erkennen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 73</p>"
 		},
 		{
 			"id": "Disguise",
 			"name": "Verkleiden",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 73/74</p>"
 		},
 		{
 			"id": "Throw",
 			"name": "Werfen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 74</p>"
 		},
 		{
 			"id": "Appraise",
 			"name": "Werte schätzen",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 74</p>"
 		},
 		{
 			"id": "Zoology",
 			"name": "Zoologie",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk; Seite 65</p>"
 		}
 	]
 }
